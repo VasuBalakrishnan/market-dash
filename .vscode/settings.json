@@ -1,0 +1,3 @@
+{
+    "python.pythonPath": "${workspaceFolder}/.venv/market-dash/bin/python3"
+}
